@@ -6,10 +6,12 @@ When I'm not developing and building things, you can find me on writing an artic
 
 ### 📰 Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [What is Blockchain](https://bilaltamboli.tech)
--[What is Artificial intelligence (AI)](https://bilaltamboli.tech)
--[What is Machine Learning](https://bilaltamboli.tech)
--[What is Robotic Process Automation](https://bilaltamboli.tech)
+
+- [What is Blockchain](https://bilaltamboli.tech/)
+- [What is Artificial intelligence (AI)](https://bilaltamboli.tech/)
+- [What is Machine Learning](https://bilaltamboli.tech/)
+- [What is Robotic Process Automation](https://bilaltamboli.tech/)
+
 <!-- BLOG-POST-LIST:END -->
 
 ### 💼 Where i am currently working at/as
