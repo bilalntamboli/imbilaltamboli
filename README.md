@@ -20,7 +20,7 @@ When I'm not developing and building things, you can find me on writing an artic
 - [Open World: Freelance](https://bilaltamboli.com)
 
 ### 💻 What i am currently/done working on
-- [WeLoveIMG](https://github.com/imbilaltamboli/weloveimg.git)  🚀
+- [WeLoveJPG](https://github.com/imbilaltamboli/weloveimg.git)  🚀
 - BulkSms  🚀 *coming soon*
 - SecureText  🚀 *coming soon*
 
