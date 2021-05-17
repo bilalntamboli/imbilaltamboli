@@ -3,8 +3,8 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science at University of Pune.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
+- 🎓 &nbsp; Studying Computer Science at Pune University.
+- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design, Artificial Intelligence and Cyber Security.
 - ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
@@ -54,5 +54,5 @@
 <a href="https://www.instagram.com/tamboli_bilal/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-bilaltamboli-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:bilalntamboli@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-bilalntamboli@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
-bilal
+
 
